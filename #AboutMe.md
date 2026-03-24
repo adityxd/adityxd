@@ -13,7 +13,7 @@ until I've understood them properly. Currently that curiosity is pointed
 at web development — slowly turning "why isn't this working" into
 "oh, that's why."
 
-Outside of academics —
+## Outside of academics —
 
 I listen to a lot of music. Not one genre, not one mood. Whatever fits
 the moment, really. And I play board games — the kind that make you
